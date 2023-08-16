@@ -13,16 +13,24 @@ Conversor de Unidades (Monedas y Temperatura) hecho con Java y JavaFX.
 Unidades de moneda a convertir:
 
 `DÓLAR - USD (United States Dollar)`
+
 `EUROS - EUR (Euro)`
+
 `LIBRAS ESTERLINAS - GBP (Great British Pound)`
+
 `YEN JAPONÉS - JPY (Japanese Yen)`
+
 `WON SUL-COREANO - KRW (South Korean Won)`
+
 `PESO ARGENTINO - ARS`
 
 Unidades de temperatura a convertir:
 
 `Celsius - (°C)`
+
 `Fahrenheit - (°F)`
+
 `Kelvin - (K)`
+
 `Rankine - (°R)`
 
