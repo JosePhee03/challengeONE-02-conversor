@@ -1,10 +1,11 @@
 # Alura - Challenge ONE
 
-![page screenshot](./public/presentacion.gif)
+![presentacion](https://github.com/JosePhee03/challengeONE-02-conversor/assets/116127522/e827cb47-205e-4c0b-a0b6-c97a6bf2f77e)
 
 ## 📚 Sprint 02: Construye un conversor de unidades con Java
 
 ### Descripción:
+
 
 Conversor de Unidades (Monedas y Temperatura) hecho con Java y JavaFX.
 
