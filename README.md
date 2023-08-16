@@ -1,6 +1,6 @@
 # Alura - Challenge ONE
 
-![presentacion](https://github.com/JosePhee03/challengeONE-02-conversor/assets/116127522/e827cb47-205e-4c0b-a0b6-c97a6bf2f77e)
+![presentacion](https://github.com/JosePhee03/challengeONE-02-conversor/assets/116127522/0f6c7d6b-f86c-4e0b-8324-0fbb9c2ff3b5)
 
 ## 📚 Sprint 02: Construye un conversor de unidades con Java
 
