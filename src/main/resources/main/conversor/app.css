@@ -1,0 +1,96 @@
+.root {
+    -fx-background-color: #223348;
+}
+
+.label {
+    -fx-text-fill: #D9E8FC;
+    -fx-font-weight: bold;
+}
+
+.combo-box .list-cell
+{
+    -fx-background: #2a3c52;
+    -fx-background-color: #2a3c52;
+    -fx-text-fill: white;
+    -fx-padding: 3 0 2 7;
+    -fx-cell-size: 1.66667em;
+}
+
+.combo-box-popup .list-view
+{
+    -fx-background-color: #2a3c52, #2a3c52;
+    -fx-background-insets: 0, 1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 8, 0.0 , 0 , 0 );
+}
+
+.combo-box-popup .list-view .list-cell
+{
+    -fx-padding: 4 0 4 5;
+
+    /* No alternate highlighting */
+    -fx-background-color: #2a3c52;
+}
+
+.combo-box-popup .list-view .list-cell:filled:selected, .combo-box-popup .list-view .list-cell:filled:selected:hover
+{
+    -fx-background: -fx-accent;
+    -fx-background-color: -fx-selection-bar;
+    -fx-text-fill: -fx-selection-bar-text;
+}
+
+.combo-box-popup .list-view .list-cell:filled:hover
+{
+    -fx-background-color: #2a3c52;
+    -fx-text-fill: gray;
+}
+
+.combo-box-base
+{
+    -fx-background-color: #2a3c52, #2a3c52, #2a3c52, #2a3c52;
+    -fx-background-radius: 5, 5, 4, 3;
+    -fx-background-insets: 0 0 -1 0, 0, 1, 2;
+    -fx-padding: 0;
+}
+
+.text-field {
+    -fx-background-color: transparent;
+    -fx-border-radius: 5, 5, 4, 3;
+    -fx-border-color: #7489a0;
+    -fx-border-width: 1px;
+    -fx-text-fill: #d6e1ec;
+}
+
+.text-field:focused {
+    -fx-background-color: -fx-focus-color, #a1b1c4;
+    -fx-text-fill: #223348;
+}
+
+.button {
+    -fx-background-color: rgb(25, 36, 52, 0.5);
+    -fx-text-fill: #D9E8FC;
+    -fx-font-weight: bold;
+}
+
+.button-nav {
+    -fx-background-color: rgb(25, 36, 52, 0.5);
+    -fx-text-fill: #D9E8FC;
+    -fx-font-weight: bold;
+}
+
+.button:hover {
+    -fx-background-color: rgb(25, 36, 52, 1);
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.button-active:hover {
+    -fx-background-color: #0C6CE9;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.button-active {
+    -fx-background-color: #0C6CE9;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
