@@ -2,10 +2,6 @@
 
 ![presentacion](https://github.com/JosePhee03/challengeONE-02-conversor/assets/116127522/0f6c7d6b-f86c-4e0b-8324-0fbb9c2ff3b5)
 
-
-https://github.com/JosePhee03/challengeONE-02-conversor/assets/116127522/39c8017f-7d64-46d4-ac26-afe553c8a905
-
-
 ## 📚 Sprint 02: Construye un conversor de unidades con Java
 
 ### Descripción:
